@@ -61,23 +61,6 @@ AI / Machine Learning
 
     Cosine Similarity
 
-Project Structure
-
-AI-STUDYMIND/
-│
-├── backend/
-│   ├── main.py
-│   ├── auth.py
-│   ├── embeddings.py
-│   ├── requirements.txt
-│   └── ...
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── ...
-│
-└── README.md
 
 Workflow
 
